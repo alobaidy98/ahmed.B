@@ -9,6 +9,7 @@ local function run(msg, matches)
 💭/close|open sticker
 💭/close|open file 
 💭/close|open audio
+🌟close/open fwd
 
 ➕
 ✅Commands for control member
