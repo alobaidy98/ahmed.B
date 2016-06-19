@@ -10,6 +10,7 @@ local function run(msg, matches)
 💭/close|open file 
 💭/close|open audio
 🌟close/open fwd
+🌟run/redis
 
 ➕
 ✅Commands for control member
@@ -86,6 +87,8 @@ local function run(msg, matches)
 💭/promote : by <reply|id|username> 
 💭/demote : by <reply|id|username> 
 
+🤖dwv:@A7mEd_B98
+🤖chanal:@dev_ahmed_98
 ➖🔸➖🔹➖🔸➖🔹➖]]
     return text
   else
